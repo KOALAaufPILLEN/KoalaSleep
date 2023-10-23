@@ -15,7 +15,7 @@ KoalaSleep (Steam Idler) is a that allows you to idle on Steam games without act
 - use a custom game as status (Maximum 30 other Games).
 - Randomizes game selection to avoid detection.
 - Supports multiple Steam accounts.
-- Customizable idle time intervals.
+- Customizable idle time intervals (Hours, Days, Weeks, Months, Infinity)
 - Simple and easy-to-use program.
 
 ## Prerequisites
