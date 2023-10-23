@@ -1,6 +1,8 @@
 # KoalaSleep (Steam Idler)
 This is a Steam idler for Windows / Linux / Android / Iphone
 
+## RIGHT now in CLOSED Pre Alpha Stage
+
 ![277095630-3d6f5fd7-2b4a-4b5c-9b43-4eff8fecf60b](https://github.com/KOALAaufPILLEN/KoalaSleep/assets/92574026/401f5135-cf60-4708-8372-48a082dc8003)
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
