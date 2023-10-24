@@ -10,7 +10,7 @@ KoalaSleep (Steam Idler) is a that allows you to idle on Steam games without act
 ## Features
 
 - Automatically idles on selected Steam games (Maximum 32).
-- use a custom game as status (Maximum 30 other Games).
+- use a custom game as status (Maximum 30 other Games, API cant handle more).
 - Randomizes game selection to avoid detection.
 - Supports multiple Steam accounts.
 - Customizable idle time intervals (Hours, Days, Weeks, Months, Infinity)
@@ -34,6 +34,9 @@ In this mode you can choose between some mode
 - Most Played (it will choose the games with the most played time in your account)
 - Less Played (will choose the at least played games in your account)
 
-you have some options you can choose, FSK Options (FSK 0,6,12,16,18) regarding this Options it will work only on the Option where it chooses it automaticly
+you have some options you can choose
+- FSK Option (0,6,12,16,18) only play games in this Rated class
+- Name a Custom Status (maximum Games will be set to 30)
+- 
 
 
