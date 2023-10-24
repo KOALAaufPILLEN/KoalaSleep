@@ -1,20 +1,21 @@
-# KoalaSleep (Steam Idler)
+# KoalaSleep - Steam Idler and Achievement Booster
 This is a Steam idler for Windows / Linux / Android / Iphone
 
 RIGHT now in CLOSED Pre Alpha Stage!! No INVITES available !
 
 ![277095630-3d6f5fd7-2b4a-4b5c-9b43-4eff8fecf60b](https://github.com/KOALAaufPILLEN/KoalaSleep/assets/92574026/401f5135-cf60-4708-8372-48a082dc8003)
 
-KoalaSleep (Steam Idler) is a that allows you to idle on Steam games without actually playing them. It helps you boost your playtime and unlock achievements effortlessly. And get Steam Cards
+KoalaSleep (Steam Idler) is a Website / Program that help you boost your playtime, unlock achievements, and collect Steam Trading Cards on the Steam platform. With its user-friendly interface and advanced features, KoalaSleep makes it easy to enhance your gaming experience.
 
 ## Features
 
-- Automatically idles on selected Steam games (Maximum 32).
+- Automatic Idling: Boost your playtime on selected Steam games effortlessly (max 32.)
+- Achievement Boosting: Unlock achievements you want for any game in your libary (if its not server sided)
 - use a custom game as status (Maximum 30 other Games, API cant handle more).
 - Randomizes game selection to avoid detection.
 - Supports multiple Steam accounts.
 - Customizable idle time intervals (Hours, Days, Weeks, Months, Infinity)
-- Steam Trading Cards Iddle (will automaticly choose a maximum of 32 games and run them till all trading cards are claimed)
+- Steam Trading Card Collection: Collect valuable Steam Trading Cards while idling.
 - Simple and easy-to-use program.
 
 ## Prerequisites
@@ -42,3 +43,11 @@ you have some options you can tick.
 - How Long you want to idle (hours, Days, Weeks, Months, Infinity, Trading Cards)
 
 
+
+## Support and Feedback
+
+Reach out to our support team for assistance or join the community forums for feedback and discussions.
+
+## Legal Disclaimer
+
+Using KoalaSleep may have implications with the terms of service of certain games or platforms. Ensure compliance with applicable rules and regulations.
