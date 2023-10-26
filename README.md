@@ -5,49 +5,53 @@ RIGHT now in CLOSED Pre Alpha Stage!! No INVITES available !
 
 ![277095630-3d6f5fd7-2b4a-4b5c-9b43-4eff8fecf60b](https://github.com/KOALAaufPILLEN/KoalaSleep/assets/92574026/401f5135-cf60-4708-8372-48a082dc8003)
 
-KoalaSleep (Steam Idler) is a Website / Program that help you boost your playtime, unlock achievements, and collect Steam Trading Cards on the Steam platform. With its user-friendly interface and advanced features, KoalaSleep makes it easy to enhance your gaming experience.
+# KoalaSleep - Steam Idler and Achievement Booster
+
+KoalaSleep is a web-based program designed to enhance your gaming experience on the Steam platform. With its user-friendly interface and advanced features, KoalaSleep allows you to boost your playtime, unlock achievements, and collect valuable Steam Trading Cards effortlessly.
 
 ## Features
 
-- Automatic Idling: Boost your playtime on selected Steam games effortlessly (max 32.)
-- Achievement Boosting: Unlock achievements you want for any game in your libary (if its not server sided)
-- use a custom game as status (Maximum 30 other Games, API cant handle more).
-- Randomizes game selection to avoid detection.
-- Supports multiple Steam accounts.
-- Customizable idle time intervals (Hours, Days, Weeks, Months, Infinity)
+- Automatic Idling: Boost your playtime on up to 32 selected Steam games effortlessly.
+- Achievement Boosting: Unlock desired achievements for any game in your library (if they are not server-sided).
+- Custom Game Status: Set a custom game as your status, with support for up to 30 additional games (as the API has limitations).
+- Randomized Game Selection: with alot of options
+- Multi-Account Support: Manage, unlock archivments and boost playtime on multiple Steam accounts.
+- Customizable Idle Time Intervals: Set idle time intervals according to your preference, ranging from hours to days, weeks, months, or indefinitely.
 - Steam Trading Card Collection: Collect valuable Steam Trading Cards while idling.
-- Simple and easy-to-use program.
+- Simple and User-Friendly: KoalaSleep offers a straightforward and easy-to-use program interface.
 
 ## Prerequisites
 
-- KoalaSleep dont need to be installed, it runs on a server and you can Login with your KoalaSleep Account and use the Webinterface to configure your Steam Accounts
-- Valid Steam accounts and games in your library.
+- KoalaSleep does not require installation as it runs on a server. But it can be downloaded and used as a program for Windows, Android, Ios, Linux, and MacOs.
+- Simply log in with your KoalaSleep account and use the interface to configure your Steam accounts.
 
 ## Usage
 
-- Start KoalaSleep and Setup your Account and choose the games you want to run and how long.
-- Now relax and wait.
+1. Start KoalaSleep or login on the webpage and configure your account settings.
+2. Choose the games you want to idle and set the desired duration.
+3. Sit back, relax, and let KoalaSleep do the rest.
 
-### Modes: Idle Selection
-In this mode you can choose between some mode
-- Choose your own 32 Games
-- Steam Trading Card (it will choose games where you can get Steam Trading Cards and will check every 5min if the cards are claimed)
-- Suprise me (it will randomly choose 32 Games in your Libary)
-- Most Played (it will choose the games with the most played time in your account)
-- Less Played (will choose the at least played games in your account)
+### Idle Selection Modes
 
-you have some options you can tick.
-- [German] FSK Rating (0,6,12,16,18) only play games in this rated class.
-- [English] ESRB Rating (RP, RP17+, E, T, M, AO)
-- Name a Custom Status (maximum Games will be set automaticly to 30)
-- How Long you want to idle (hours, Days, Weeks, Months, Infinity, Trading Cards)
+KoalaSleep offers various idle selection modes:
 
+- Choose Your Own Games: Select up to 32 games of your choice to idle. If Custom Status is choosed it will be max 30 Games.
+- Steam Trading Card: Automatically select games that offer Steam Trading Cards. The program will check every 5 minutes if the cards can be claimed.
+- Surprise Me: Let KoalaSleep randomly choose 32 games from your library for idling.
+- Most Played: KoalaSleep will select the games with the highest playtime in your library.
+- Least Played: The program will choose the least played games from your library.
 
+Additional Options:
+
+- [German] FSK Rating: Play games only within specific age ratings (0, 6, 12, 16, 18).
+- [English] ESRB Rating: Limit gameplay to games with specific ESRB ratings (RP, RP17+, E, T, M, AO).
+- Custom Status: Set a custom status with a maximum of 30 games automatically selected.
+- Idle Duration: Choose the desired idle duration, whether it's hours, days, weeks, months, indefinitely, or until all Trading Cards are collected.
 
 ## Support and Feedback
 
-Reach out to our support team for assistance or join the community forums for feedback and discussions.
+For assistance, reach out to our dedicated support team. Join the community forums to provide feedback, engage in discussions, and connect with other KoalaSleep users.
 
 ## Legal Disclaimer
 
-Using KoalaSleep may have implications with the terms of service of certain games or platforms. Ensure compliance with applicable rules and regulations.
+Using KoalaSleep may have implications with the terms of service of certain games or platforms. Ensure compliance with all applicable rules and regulations.
