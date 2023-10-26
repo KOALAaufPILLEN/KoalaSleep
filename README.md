@@ -3,11 +3,11 @@ This is a Steam idler for Windows / Linux / Android / Iphone
 
 RIGHT now in CLOSED Pre Alpha Stage!! No INVITES available !
 
-![277095630-3d6f5fd7-2b4a-4b5c-9b43-4eff8fecf60b](https://github.com/KOALAaufPILLEN/KoalaSleep/assets/92574026/401f5135-cf60-4708-8372-48a082dc8003)
+<img src="https://github.com/KOALAaufPILLEN/KoalaSleep/assets/92574026/401f5135-cf60-4708-8372-48a082dc8003.png" width="350">
 
 # KoalaSleep - Steam Idler and Achievement Booster
 
-KoalaSleep is a web-based program designed to enhance your gaming experience on the Steam platform. With its user-friendly interface and advanced features, KoalaSleep allows you to boost your playtime, unlock achievements, and collect valuable Steam Trading Cards effortlessly.
+> KoalaSleep is a web-based program designed to enhance your gaming experience on the Steam platform. With its user-friendly interface and advanced features, KoalaSleep allows you to boost your playtime, unlock achievements, and collect valuable Steam Trading Cards effortlessly.
 
 ## Features
 
