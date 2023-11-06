@@ -1,5 +1,5 @@
 # KoalaSleep - Steam Idler and Achievement Booster
-This is a Steam idler for Windows / Linux / Android / Iphone
+This is a Steam idler for Windows / Android / Iphone
 
 RIGHT now in CLOSED Pre Alpha Stage!! No INVITES available !
 
