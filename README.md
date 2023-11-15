@@ -22,7 +22,7 @@ RIGHT now in CLOSED Pre Alpha Stage!! No INVITES available !
 
 ## Prerequisites
 
-- KoalaSleep does not require installation as it runs on a server. But it can be downloaded and used as a program for Windows, Android, Ios, Linux, and MacOs.
+- KoalaSleep does not require installation as it runs on a Webserver. But it can be downloaded and used as a program for Windows, Android, Ios, Linux, and MacOs.
 - Simply log in with your KoalaSleep account and use the interface to configure your Steam accounts.
 
 ## Usage
@@ -47,6 +47,12 @@ Additional Options:
 - [English] ESRB Rating: Limit gameplay to games with specific ESRB ratings (RP, RP17+, E, T, M, AO).
 - Custom Status: Set a custom status with a maximum of 30 games automatically selected.
 - Idle Duration: Choose the desired idle duration, whether it's hours, days, weeks, months, indefinitely, or until all Trading Cards are collected.
+
+### Archivment Booster
+
+- Choose Your Game: You can search for any game in your libary and see how much archivments you have (example 12/40).
+- Choose the archivment: After selecting a game, you see first all unlocked archivments then all unlocked archivments with the text and picture that it contains.
+- 
 
 ## Support and Feedback
 
