@@ -24,6 +24,7 @@ RIGHT now in CLOSED Pre Alpha Stage!! No INVITES available !
 
 - KoalaSleep does not require installation as it runs on a Webserver. But it can be downloaded and used as a program for Windows, Android, Ios, Linux, and MacOs.
 - Simply log in with your KoalaSleep account and use the interface to configure your Steam accounts.
+- Buy some SleepyCoins to run the KoalaSleep (needs to calculate how much for some time regarding some server costs) 
 
 ## Usage
 
@@ -51,8 +52,8 @@ Additional Options:
 ### Archivment Booster
 
 - Choose Your Game: You can search for any game in your libary and see how much archivments you have (example 12/40).
-- Choose the archivment: After selecting a game, you see first all unlocked archivments then all unlocked archivments with the text and picture that it contains.
-- 
+- Archivment Overview: After selecting a game, you see first all unlocked archivments then all unlocked archivments with the text and picture that it contains
+- Unlock the Archivment: Choose the Archivment you want to unlock, some serversides Archivments are not possible to unlock
 
 ## Support and Feedback
 
