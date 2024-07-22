@@ -9,6 +9,10 @@ RIGHT now in CLOSED Pre Alpha Stage!! No INVITES available !
 
 > KoalaSleep is a web-based program designed to enhance your gaming experience on the Steam platform. With its user-friendly interface and advanced features, KoalaSleep allows you to boost your playtime, unlock achievements, and collect valuable Steam Trading Cards effortlessly.
 
+## Errors
+- Sometimes the Archivment Booster cant unlock archivments when the idler is running
+  Fix: stop KOALASLEEP and run then the Archivment Booster
+
 ## Features
 
 - Automatic Idling: Boost your playtime on up to 32 selected Steam games effortlessly.
